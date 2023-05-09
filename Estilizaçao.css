@@ -3,7 +3,7 @@
 body{
     font-family: "Trebucht MS", Helvetica, sans-serif;
    background-color: #fff;
-   background: url(imagens/cup-of-coffee-1280537_1920.jpg);
+   background: url(cup-of-coffee-1280537_1920.jpg);
 }
 
 #container{
@@ -29,7 +29,7 @@ body{
     top: 40px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
     font-size: 30px;
-    background: url(imagens/computador.png) no-repeat left;
+    background: url(computador.png) no-repeat left;
     background-size: 50px;
     
 }
