@@ -3,7 +3,11 @@
 body{
     font-family: "Trebucht MS", Helvetica, sans-serif;
    background-color: #fff;
-   background: url(imagens/cup-of-coffee-1280537_1920.jpg);
+   background: url(imagens/cup-of-coffee-1280537_1920.jpg)
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position:center ;
+   background-attachment: fixed;
 }
 
 #container{
